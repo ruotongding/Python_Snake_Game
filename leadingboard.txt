@@ -1,0 +1,10 @@
+kaifan: 20
+kaia: 14
+ruotong: 13
+mh: 10
+tbq:10
+stewart: 10
+ga:9
+kaia:15
+rt:3
+kaia:6
